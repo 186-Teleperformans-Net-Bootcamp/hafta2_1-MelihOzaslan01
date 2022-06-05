@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Masaüstü\Homework2_1(DateTimeExtension)\obj\Debug\net6.0\Homework2_1(DateTimeExtension).csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Homework2_1(DateTimeExtension)\obj\Debug\net6.0\Homework2_1(DateTimeExtension).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Homework2_1(DateTimeExtension)\obj\Debug\net6.0\Homework2_1(DateTimeExtension).AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Homework2_1(DateTimeExtension)\obj\Debug\net6.0\Homework2_1(DateTimeExtension).AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Homework2_1(DateTimeExtension)\obj\Debug\net6.0\Homework2_1(DateTimeExtension).csproj.CoreCompileInputs.cache
